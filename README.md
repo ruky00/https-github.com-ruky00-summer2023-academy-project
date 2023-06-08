@@ -1,1 +1,1 @@
-# https-github.com-ruky00-summer2023-academy-project
+# summer2023-academy-project
